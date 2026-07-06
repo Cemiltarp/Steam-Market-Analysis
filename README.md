@@ -10,7 +10,7 @@ This project is an advanced, automated data pipeline and financial dashboard des
 
 <img width="1693" height="534" alt="image" src="https://github.com/user-attachments/assets/5b5cb8fe-b965-4c3d-ad6a-81b950c1827c" />
 <img width="1682" height="772" alt="image" src="https://github.com/user-attachments/assets/d3480742-aa49-4a29-a3ef-5413cacddf6b" />
-Data from 5,000 games.
+"Comprehensive financial metrics extracted, cleaned, and dynamically processed from the top 5,000 Steam titles."
 <img width="1702" height="866" alt="image" src="https://github.com/user-attachments/assets/4b873620-feca-4cbb-b865-e8bc03da5312" />
 <img width="1690" height="821" alt="image" src="https://github.com/user-attachments/assets/eb54dff0-4c73-479f-955a-1f11d339042c" />
 
