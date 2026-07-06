@@ -1,3 +1,6 @@
 pandas
 requests
+pycountry
+duckduckgo-search
 streamlit
+python-dotenv
