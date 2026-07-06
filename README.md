@@ -7,11 +7,10 @@
 
 ## 📌 Project Overview
 This project is an advanced, automated data pipeline and financial dashboard designed to analyze and forecast the global Steam game market. The project offers a specially developed **Dynamic-Logarithmic ARPU (Average Revenue Per User) Engine**.
-
-<img width="1856" height="602" alt="image" src="https://github.com/user-attachments/assets/5b46cbf5-bd50-4a33-b929-0d2058df09b3" />
-<img width="1745" height="793" alt="image" src="https://github.com/user-attachments/assets/ba94aadd-fa2b-41de-ad98-416fd9a2b4bd" />
-<img width="1713" height="894" alt="image" src="https://github.com/user-attachments/assets/5d7662e9-ba88-4c33-9d83-bf078f54773e" />
-<img width="1713" height="874" alt="image" src="https://github.com/user-attachments/assets/823e8052-4705-4b7b-88dd-201ebee57958" />
+<img width="1693" height="534" alt="image" src="https://github.com/user-attachments/assets/5b5cb8fe-b965-4c3d-ad6a-81b950c1827c" />
+<img width="1682" height="772" alt="image" src="https://github.com/user-attachments/assets/d3480742-aa49-4a29-a3ef-5413cacddf6b" />
+<img width="1702" height="866" alt="image" src="https://github.com/user-attachments/assets/4b873620-feca-4cbb-b865-e8bc03da5312" />
+<img width="1690" height="821" alt="image" src="https://github.com/user-attachments/assets/eb54dff0-4c73-479f-955a-1f11d339042c" />
 
 By processing real-time Concurrent User (CCU), in-game microtransaction (MTX) tags, and DLC counts, the engine estimates the **Lifetime Total Revenue** and **Current Annual Revenue** of both Live Service giants (e.g., CS2, Dota 2, GTA V) and paid indie games with near-accuracy.
 
