@@ -75,7 +75,8 @@ cd Steam-Market-Analysis
 pip install -r requirements.txt
 
 ```
-Configure Environment Variables:
+3.Configure Environment Variables:
+
 Create a .env file in the root directory and add your Twitch API credentials for country detection:
 ```bash
 
