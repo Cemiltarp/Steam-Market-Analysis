@@ -67,3 +67,23 @@ The data pipeline operates in four consecutive phases:
 git clone [https://github.com/Cemiltarp/Steam-Market-Analysis.git](https://github.com/Cemiltarp/Steam-Market-Analysis.git)[cite: 5]
 
 cd Steam-Market-Analysis
+```
+2.Install the required dependencies:
+
+```bash
+
+pip install -r requirements.txt
+
+```
+Configure Environment Variables:
+Create a .env file in the root directory and add your Twitch API credentials for country detection:
+```bash
+
+TWITCH_CLIENT_ID=your_client_id_here
+TWITCH_CLIENT_SECRET=your_client_secret_here
+```
+Run the data pipeline scripts in order (1 to 3), then launch the dashboard:
+```bash
+streamlit run src/4_dashboard.py
+
+
