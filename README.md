@@ -58,6 +58,13 @@ The data pipeline operates in four consecutive phases:
 
 4. `4_dashboard.py`: Implements financial formulas and creates the user interface.
 
+## Known Issues & Technical Debt
+
+* **Geographical Data Unavailability:** Certain publisher companies restrict or withhold regional data. This lack of transparency causes minor statistical deviations (variance) in the country distribution charts.
+* **Legacy Database Entries:** Some game titles retrieved from the Steam database contain outdated or legacy names, as certain database entries are not actively maintained or updated by their developers.
+* **Heuristic Revenue Estimation:** Revenue calculations are based on average estimation models rather than exact figures. Consequently, sudden market fluctuations, unexpected financial spikes, or sharp drops may not be fully reflected in the current calculations.
+* **Promotional Data Blind Spots:** There is no available API access to track discount campaigns or the exact volume of players purchasing games at discounted rates. As a result, our final revenue projections may exhibit minor variances compared to actual real-world metrics.
+
 ## ⚙️ Installation and Usage
 
 1. Clone the repository:
